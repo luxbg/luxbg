@@ -29,3 +29,5 @@ When I'm not coding, spend my time solving calculus problems.
 ---
 
 Thanks for visiting my GitHub profile! Have a great day! 😄
+
+<img src="https://myreadme.vercel.app/api/embed/luxbg?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
