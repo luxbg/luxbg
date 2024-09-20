@@ -9,12 +9,16 @@ I'm a 17-year-old developer with a passion for coding and blockchain technology.
   - Cardano
   - Polygon
   - Ethereum
+  - Bitcoin
+- **Firebase**
 - **Back-end Frameworks**:
   - Express.js
   - Fastify
 
 ## Projects
-I'm constantly working on new projects and exploring innovative ideas. Check [Danketsu](https://danketsu.io/) out
+[Danketsu](https://danketsu.io/)
+[Tokeo](https://tokeopay.io/)
+
 
 ## Connect with Me
 - [GitHub](https://github.com/luxbg)
@@ -30,4 +34,4 @@ When I'm not coding, spend my time solving calculus problems.
 
 Thanks for visiting my GitHub profile! Have a great day! 😄
 
-<img src="https://myreadme.vercel.app/api/embed/luxbg?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luxbg&theme=dark)
