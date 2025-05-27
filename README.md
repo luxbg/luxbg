@@ -1,37 +1,27 @@
-# Hi, I'm Luxbug! 👋
+# Hi, I’m Mohamed Hamed (Luxbug) 👋
 
-## About Me
-I'm a 17-year-old developer with a passion for coding and blockchain technology. I've been working in the field since I was 13, accumulating a wealth of experience along the way. My journey in the tech world has been fueled by curiosity, dedication, and a drive to innovate.
+About Me
 
-## Skills
-- **TypeScript**
-- **Blockchain Platforms**:
-  - Cardano
-  - Polygon
-  - Ethereum
-  - Bitcoin
-- **Firebase**
-- **Back-end Frameworks**:
-  - Express.js
-  - Fastify
+I’m an 18-year-old developer with over five years of experience in software development, with a strong focus on backend systems and blockchain technology. I’m driven by curiosity and a desire to build scalable, efficient solutions.
 
-## Projects
-[Danketsu](https://danketsu.io/)
-[Tokeo](https://tokeopay.io/)
+Skills
+	•	Languages: TypeScript, Swift, Kotlin
+	•	Blockchain Platforms: Ethereum, Cardano, Bitcoin, SUI
+	•	Cloud Platforms: Google Cloud, Firebase
+
+Projects
+	•	Danketsu – Blockchain-integrated ecosystem
+	•	Tokeo – Crypto payments and asset management platform
 
 
-## Connect with Me
-- [GitHub](https://github.com/luxbg)
-- [Twitter](https://twitter.com/nftluxbug)
+Contributions
 
-## Contributions
-I'm always open to collaborating on exciting projects and contributing to open-source communities. Feel free to reach out if you have any interesting ideas or need help with your project!
+I’m open to collaborating on innovative projects, particularly in backend architecture, blockchain applications, and cloud infrastructure. Reach out if you’re working on something interesting.
 
-## Fun Fact
-When I'm not coding, spend my time solving calculus problems.
+Fun Fact
 
----
+Outside of development, I enjoy solving advanced calculus problems to challenge my analytical thinking.
 
-Thanks for visiting my GitHub profile! Have a great day! 😄
+Thanks for checking out my profile.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luxbg&theme=dark)
