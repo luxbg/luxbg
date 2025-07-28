@@ -6,12 +6,15 @@ I’m an 18-year-old developer with over five years of experience in software de
 Skills
 
 •	Languages: TypeScript, Swift, Kotlin
+
 •	Blockchain Platforms: Ethereum, Cardano, Bitcoin, SUI
+
 •	Cloud Platforms: Google Cloud, Firebase
 
 Projects
 
 •	Danketsu – Blockchain-integrated ecosystem
+
 •	Tokeo – Crypto payments and asset management platform
 
 
